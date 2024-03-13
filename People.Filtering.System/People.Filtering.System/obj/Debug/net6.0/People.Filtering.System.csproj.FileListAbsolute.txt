@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\For Programing Education\People.Filtering.System\People.Filtering.System\People.Filtering.System\bin\Debug\net6.0\People.Filtering.System.exe
+C:\Users\user\Desktop\For Programing Education\People.Filtering.System\People.Filtering.System\People.Filtering.System\bin\Debug\net6.0\People.Filtering.System.deps.json
+C:\Users\user\Desktop\For Programing Education\People.Filtering.System\People.Filtering.System\People.Filtering.System\bin\Debug\net6.0\People.Filtering.System.runtimeconfig.json
+C:\Users\user\Desktop\For Programing Education\People.Filtering.System\People.Filtering.System\People.Filtering.System\bin\Debug\net6.0\People.Filtering.System.dll
+C:\Users\user\Desktop\For Programing Education\People.Filtering.System\People.Filtering.System\People.Filtering.System\bin\Debug\net6.0\People.Filtering.System.pdb
+C:\Users\user\Desktop\For Programing Education\People.Filtering.System\People.Filtering.System\People.Filtering.System\obj\Debug\net6.0\People.Filtering.System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\For Programing Education\People.Filtering.System\People.Filtering.System\People.Filtering.System\obj\Debug\net6.0\People.Filtering.System.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\For Programing Education\People.Filtering.System\People.Filtering.System\People.Filtering.System\obj\Debug\net6.0\People.Filtering.System.AssemblyInfo.cs
+C:\Users\user\Desktop\For Programing Education\People.Filtering.System\People.Filtering.System\People.Filtering.System\obj\Debug\net6.0\People.Filtering.System.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\For Programing Education\People.Filtering.System\People.Filtering.System\People.Filtering.System\obj\Debug\net6.0\People.Filtering.System.dll
+C:\Users\user\Desktop\For Programing Education\People.Filtering.System\People.Filtering.System\People.Filtering.System\obj\Debug\net6.0\refint\People.Filtering.System.dll
+C:\Users\user\Desktop\For Programing Education\People.Filtering.System\People.Filtering.System\People.Filtering.System\obj\Debug\net6.0\People.Filtering.System.pdb
+C:\Users\user\Desktop\For Programing Education\People.Filtering.System\People.Filtering.System\People.Filtering.System\obj\Debug\net6.0\People.Filtering.System.genruntimeconfig.cache
+C:\Users\user\Desktop\For Programing Education\People.Filtering.System\People.Filtering.System\People.Filtering.System\obj\Debug\net6.0\ref\People.Filtering.System.dll
